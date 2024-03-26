@@ -24,6 +24,6 @@ Some of what you'll find here are projects I used in my curriculum as a high sch
 
 ### Me:
 - :earth_americas: I grew up in southeast Alaska and currently call New Hampshire home.
-- :roller_skate: I'm a VERY amateur roller skater!
+- :roller_skate: I love learning new things: my latest is roller skating! I'm VERY bad, but I'm trying and it's fun!
 - :sailboat: I love tall ships, old books and maps, ghost stories, and broadside ballads.
 - :busts_in_silhouette: I think one of the most important issues to address now and in the coming years is the concept of community. How do we find it? How do we maintain it? How do our physical environments support or discourage it?
