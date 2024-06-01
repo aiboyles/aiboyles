@@ -26,4 +26,3 @@ Some of what you'll find here are projects I used in my curriculum as a high sch
 - :earth_americas: I grew up in southeast Alaska and currently call New Hampshire home.
 - :roller_skate: I love learning new things: my latest is roller skating! I'm VERY bad, but I'm trying and it's fun!
 - :sailboat: A few of my random interests include tall ships, old books and maps, ghost stories, and broadside ballads.
-- :busts_in_silhouette: I'm deeply interested in community and third spaces. I would love to see and contribute to a third place revival!
