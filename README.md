@@ -1,6 +1,6 @@
 Hi, I'm Ann!
 
-I like to tinker with code for fun. Here you can find little experiments, tools, and projects I used when I taught high school computer science.
+I like to tinker with code for fun. Here you can find little experiments, tools, and projects I've made (including some that I used when I taught high school computer science).
 
 #### Programming languages:
 <p>
