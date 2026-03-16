@@ -1,8 +1,6 @@
-## :star2: Hi, I'm Ann! :ringed_planet:
+Hi, I'm Ann!
 
-I'm a creative coder and empathetic communicator who thrives on variety and learning new things every day. My windy career path includes programming marine navigational software for cargo ships in the Netherlands :ship: and teaching computer science at a diverse public high school in Pasadena, CA 👩🏻‍🏫.
-
-Some of what you'll find here are projects I used in my curriculum as a high school computer science teacher. I've taught all high school grade levels from freshmen through seniors, and had an absolute blast!
+I like to tinker with code for fun. Here you can find little experiments, tools, and projects I used when I taught high school computer science.
 
 #### Programming languages:
 <p>
@@ -21,8 +19,3 @@ Some of what you'll find here are projects I used in my curriculum as a high sch
     <img src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white" alt="pandas Badge">
     <img src="https://img.shields.io/badge/p5.js-ED225D?logo=p5dotjs&logoColor=fff&style=flat" alt="p5.js Badge">
 </p>
-
-### Me:
-- :earth_americas: I grew up in southeast Alaska and currently call New Hampshire home.
-- :roller_skate: I love learning new things: my latest is roller skating! I'm VERY bad, but I'm trying and it's fun!
-- :sailboat: A few of my random interests include tall ships, old books and maps, ghost stories, and broadside ballads.
